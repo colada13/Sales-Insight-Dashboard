@@ -30,4 +30,3 @@ Customer Name
 
 The interactive dashboard thus will help one do in-depth analysis of data based on multiple factors.
 ![sales dashboard](https://user-images.githubusercontent.com/112157807/186883469-1018c849-fd55-4678-b6da-a17bdc0e5e42.png)
-[Sales Insights.docx](https://github.com/colada13/Sales-Insight-Dashboard/files/9432313/Sales.Insights.docx)
