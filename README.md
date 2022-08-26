@@ -5,7 +5,7 @@ Aim : Understand the data and define Dashboard KPIs to help business create mean
 
 About the Data : The data provided gives information about the orders in the year 2019.
 
-![alt text](https://github.com/colada13/Sales-Insight-Dashboard.git/blob/main/data.png?raw=true)
+![alt text](https://github.com/colada13/Sales-Insight-Dashboard.git/main/data.png?raw=true)
 
 Understanding the Data and Formulating KPIs :
 The following information can be gained from the data
