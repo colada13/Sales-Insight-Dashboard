@@ -7,9 +7,6 @@ About the Data : The data provided gives information about the orders in the yea
 
 ![data](https://user-images.githubusercontent.com/112157807/186883262-15530a0d-773d-401f-aca4-28d3f8a06408.png)
 
-
-![alt text](https://github.com/colada13/Sales-Insight-Dashboard.git/main/data.png?raw=true)
-
 Understanding the Data and Formulating KPIs :
 The following information can be gained from the data
 
@@ -32,3 +29,5 @@ Sales Person
 Customer Name
 
 The interactive dashboard thus will help one do in-depth analysis of data based on multiple factors.
+![sales dashboard](https://user-images.githubusercontent.com/112157807/186883469-1018c849-fd55-4678-b6da-a17bdc0e5e42.png)
+[Sales Insights.docx](https://github.com/colada13/Sales-Insight-Dashboard/files/9432313/Sales.Insights.docx)
